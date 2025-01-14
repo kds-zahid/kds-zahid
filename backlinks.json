@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "heading": "SEO Tools",
+            "backlinks": [
+                {
+                    "name": "SEO Tool 1",
+                    "url": "https://example1.com"
+                },
+                {
+                    "name": "SEO Tool 2",
+                    "url": "https://example2.com"
+                }
+            ]
+        },
+        {
+            "heading": "WordPress Tools",
+            "backlinks": [
+                {
+                    "name": "WordPress Tool 1",
+                    "url": "https://example3.com"
+                },
+                {
+                    "name": "WordPress Tool 2",
+                    "url": "https://example4.com"
+                }
+            ]
+        }
+    ]
+}
