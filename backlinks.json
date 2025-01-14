@@ -71,7 +71,19 @@
                     "url": "https://api.zahidhasan.com.bd"
                 }
             ]
+        },
+        {
+            "heading": "Search Console",
+            "backlinks": [
+                {
+                    "name": "Magic Console",
+                    "url": "#"
+                }
+            ]
         }
+
+
+        
         
     ]
 }
