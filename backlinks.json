@@ -48,6 +48,18 @@
                 {
                     "name": "Link Extractor",
                     "url": "https://linkextractor.zahidhasan.com.bd"
+                },
+                {
+                    "name": "Backlink Generator",
+                    "url": "https://backlinkgenerator.zahidhasan.com.bd/"
+                },
+                {
+                    "name": "Bulk Page Creator",
+                    "url": "https://bulkpageimporter.zahidhasan.com.bd/"
+                },
+                {
+                    "name": "Link Extractor",
+                    "url": "https://linkextractor.zahidhasan.com.bd/"
                 }
             ]
         }
