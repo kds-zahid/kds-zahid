@@ -31,26 +31,6 @@
                 {
                     "name": "Auto BBCode",
                     "url": "https://www.bbcode.zahidhasan.com.bd/auto.php"
-                },
-                {
-                    "name": "",
-                    "url": ""
-                },
-                {
-                    "name": "",
-                    "url": ""
-                },
-                {
-                    "name": "",
-                    "url": ""
-                },
-                {
-                    "name": "",
-                    "url": ""
-                },
-                {
-                    "name": "",
-                    "url": ""
                 }
             ]
         },
@@ -58,12 +38,16 @@
             "heading": "WordPress Tools",
             "backlinks": [
                 {
-                    "name": "WordPress Tool 1",
-                    "url": "https://example3.com"
+                    "name": "Keyword-Backlink Checker",
+                    "url": "https://check.zahidhasan.com.bd"
                 },
                 {
-                    "name": "WordPress Tool 2",
-                    "url": "https://example4.com"
+                    "name": "Link Separator",
+                    "url": "https://linkseparator.zahidhasan.com.bd"
+                },
+                {
+                    "name": "Link Extractor",
+                    "url": "https://linkextractor.zahidhasan.com.bd"
                 }
             ]
         }
